@@ -54,8 +54,8 @@ export default class Login extends Component {
           
 
           <div className="d-grid">
-            <button type="submit" className="btn btn-primary" href="#">
-              Sign in
+            <button  className="btn btn-primary"  >
+              Sign in <a href="http://localhost:3002/">Sign in</a>
             </button>
           </div>
           

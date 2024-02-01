@@ -84,7 +84,7 @@ export default class SignUp extends Component {
 
         <div className="d-grid">
           <button type="submit" className="btn btn-primary">
-            Sign Up
+            Sign Up <a href="http://localhost:3002/">Sign up</a>
           </button>
         </div>
         <p className="forgot-password text-right">
