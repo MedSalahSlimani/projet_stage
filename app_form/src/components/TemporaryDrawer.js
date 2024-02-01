@@ -62,11 +62,11 @@ function TemporaryDrawer() {
         </ListItem>
 
         <ListItem>
-          <div className={classes.ListItem}></div>
+          <div className={classes.ListItem}>S</div>
         </ListItem>
 
         <ListItem>
-          <div style={{ marginLeft: "20px", fontSize: "14px", fontWeight: "500", color: "grey" }}></div>
+          <div style={{ marginLeft: "20px", fontSize: "14px", fontWeight: "500", color: "grey" }}>Forms</div>
         </ListItem>
       </List>
 <Divider />
